@@ -5,7 +5,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - corn: '00 23 * * *'
+    -corn: '00 23 * * *'
 
 
 env:
